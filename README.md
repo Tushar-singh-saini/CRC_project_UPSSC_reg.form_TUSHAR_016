@@ -46,7 +46,7 @@ The form allows users to enter their personal, educational, and examination deta
 
 ## 📂 Project Structure
 ```text
-CRC_PROJECT_UPSSSC_SIDDHANT_015/
+CRC_PROJECT_UPSSSC_TUSHAR_016/
 │── index.html
 │── style.css
 │── README.md
